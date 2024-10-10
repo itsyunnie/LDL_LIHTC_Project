@@ -1,0 +1,5760 @@
+{
+    "Fulton County": [
+        {
+            "name": "Student Center",
+            "latitude": 33.773393,
+            "longitude": -84.399223,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Tech Tower",
+            "latitude": 33.7723585,
+            "longitude": -84.3956192,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Transit Hub",
+            "latitude": 33.7728569,
+            "longitude": -84.3972935,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Ferst Drive & State Street",
+            "latitude": 33.7783258,
+            "longitude": -84.3996523,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Ferst Drive & State Street",
+            "latitude": 33.778284,
+            "longitude": -84.3994028,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Klaus Building",
+            "latitude": 33.777476,
+            "longitude": -84.3956548,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Fitten Hall",
+            "latitude": 33.7782252,
+            "longitude": -84.4042015,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.727497,
+            "longitude": -84.363295,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Arts Center",
+            "latitude": 33.7891361,
+            "longitude": -84.3872636,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Midtown",
+            "latitude": 33.78111,
+            "longitude": -84.3862858,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "North Avenue",
+            "latitude": 33.7725916,
+            "longitude": -84.3869647,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7665004,
+            "longitude": -84.3874927,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Peachtree Center",
+            "latitude": 33.7595141,
+            "longitude": -84.3875569,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "West Lake",
+            "latitude": 33.7532865,
+            "longitude": -84.4453268,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "East Point",
+            "latitude": 33.6770206,
+            "longitude": -84.4406299,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "West End",
+            "latitude": 33.7360258,
+            "longitude": -84.4136924,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Oakland City",
+            "latitude": 33.7168551,
+            "longitude": -84.425262,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Atlanta",
+            "latitude": 33.799076,
+            "longitude": -84.3928604,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 34.0979531,
+            "longitude": -84.2638454,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Techwood Drive & North Avenue",
+            "latitude": 33.7714464,
+            "longitude": -84.3920293,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Techwood Drive & 5th Street",
+            "latitude": 33.7767291,
+            "longitude": -84.3920978,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.733641,
+            "longitude": -84.373635,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 34.093261,
+            "longitude": -84.239651,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 34.0875297,
+            "longitude": -84.2688307,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.805721,
+            "longitude": -84.464247,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Inman Park/Reynoldstown",
+            "latitude": 33.7578541,
+            "longitude": -84.3523457,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 34.0980004,
+            "longitude": -84.2593686,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 36.5682763,
+            "longitude": -89.2121956,
+            "type": "public_transport_station"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7536471,
+            "longitude": -84.3854531,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Five Points",
+            "latitude": 33.7538868,
+            "longitude": -84.3915963,
+            "type": "public_transport_station"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7581103,
+            "longitude": -84.3874162,
+            "type": "subway_entrance"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7607161,
+            "longitude": -84.387409,
+            "type": "subway_entrance"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7715534,
+            "longitude": -84.3870628,
+            "type": "subway_entrance"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7734607,
+            "longitude": -84.3871476,
+            "type": "subway_entrance"
+        },
+        {
+            "name": "Midtown",
+            "latitude": 33.7816417,
+            "longitude": -84.3862538,
+            "type": "subway_entrance"
+        },
+        {
+            "name": "Georgia State",
+            "latitude": 33.7502037,
+            "longitude": -84.3859659,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Lakewood/Fort McPherson",
+            "latitude": 33.7001726,
+            "longitude": -84.4289696,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Defoors Ferry Rd at Bohler Rd",
+            "latitude": 33.8132349,
+            "longitude": -84.4256998,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "King Memorial",
+            "latitude": 33.7500299,
+            "longitude": -84.3754697,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Bus drop zone",
+            "latitude": 33.7582762,
+            "longitude": -84.3982788,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7578623,
+            "longitude": -84.398296,
+            "type": "Unknown"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7565911,
+            "longitude": -84.3967449,
+            "type": "subway_entrance"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7562012,
+            "longitude": -84.3988428,
+            "type": "subway_entrance"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7603258,
+            "longitude": -84.3878773,
+            "type": "subway_entrance"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7702013,
+            "longitude": -84.387504,
+            "type": "Unknown"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.9401531,
+            "longitude": -84.375587,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Southwest Entrance",
+            "latitude": 33.7578806,
+            "longitude": -84.3878147,
+            "type": "subway_entrance"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7769436,
+            "longitude": -84.3898189,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7767743,
+            "longitude": -84.3897366,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7731027,
+            "longitude": -84.396937,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7727455,
+            "longitude": -84.3969437,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7932812,
+            "longitude": -84.3514991,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7928817,
+            "longitude": -84.3517995,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7919687,
+            "longitude": -84.353662,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Virginia Avenue & Lang Avenue",
+            "latitude": 33.6589897,
+            "longitude": -84.4212801,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Ashby",
+            "latitude": 33.7564903,
+            "longitude": -84.4173475,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7574983,
+            "longitude": -84.3527725,
+            "type": "subway_entrance"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 43.0481147,
+            "longitude": -74.2167737,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Fulton",
+            "latitude": 36.523611,
+            "longitude": -88.8871781,
+            "type": "public_transport_station"
+        },
+        {
+            "name": "GSU Panther Express University Commons",
+            "latitude": 33.7573377,
+            "longitude": -84.3821714,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "GSU Panther Express Aderhold Learning Center",
+            "latitude": 33.7565087,
+            "longitude": -84.3886982,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.8491733,
+            "longitude": -84.4294467,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.6859696,
+            "longitude": -84.4518829,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.685888,
+            "longitude": -84.4522331,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.685526,
+            "longitude": -84.445363,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.6853612,
+            "longitude": -84.4495187,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.6882001,
+            "longitude": -84.4545935,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "MARTA BUS",
+            "latitude": 33.688384,
+            "longitude": -84.4543274,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.6856304,
+            "longitude": -84.4475484,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.6850041,
+            "longitude": -84.4500337,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.6860308,
+            "longitude": -84.4472872,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "College of Business",
+            "latitude": 33.7768232,
+            "longitude": -84.3877317,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Mansell Park & Ride",
+            "latitude": 34.0390669,
+            "longitude": -84.3130599,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7796012,
+            "longitude": -84.4025354,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "8th Street & Hemphill Avenue",
+            "latitude": 33.7796581,
+            "longitude": -84.4025954,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7737297,
+            "longitude": -84.3636369,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7734488,
+            "longitude": -84.3652999,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7739207,
+            "longitude": -84.3554386,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7812393,
+            "longitude": -84.3860548,
+            "type": "Unknown"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7811305,
+            "longitude": -84.3866768,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.8184863,
+            "longitude": -84.3520363,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.8189971,
+            "longitude": -84.3529517,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.8149207,
+            "longitude": -84.3529999,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.8147923,
+            "longitude": -84.3522267,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.8139755,
+            "longitude": -84.3535278,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.8232743,
+            "longitude": -84.3700523,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.8214377,
+            "longitude": -84.3692884,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.821336,
+            "longitude": -84.3664707,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Technology Square",
+            "latitude": 33.7768594,
+            "longitude": -84.389756,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7785747,
+            "longitude": -84.3872876,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Ferst Drive & Atlantic Drive",
+            "latitude": 33.7782488,
+            "longitude": -84.3974584,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Ferst Drive & Atlantic Drive",
+            "latitude": 33.7782559,
+            "longitude": -84.3981831,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Ferst Drive & Fowler Street",
+            "latitude": 33.7769334,
+            "longitude": -84.3940566,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Ferst Drive & Hemphill Avenue",
+            "latitude": 33.7784898,
+            "longitude": -84.4006752,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Midtown MARTA",
+            "latitude": 33.7807617,
+            "longitude": -84.38618,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Publix Supermarket",
+            "latitude": 33.780602,
+            "longitude": -84.3886926,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Recreation Center",
+            "latitude": 33.775064,
+            "longitude": -84.4025755,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Techwood Drive & 5th Street",
+            "latitude": 33.7768931,
+            "longitude": -84.3916937,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Transit Hub",
+            "latitude": 33.7731076,
+            "longitude": -84.3969999,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Recreation Center",
+            "latitude": 33.7750622,
+            "longitude": -84.4023916,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7733317,
+            "longitude": -84.3992324,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Student Center",
+            "latitude": 33.7733797,
+            "longitude": -84.3991381,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7734644,
+            "longitude": -84.3991199,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7750625,
+            "longitude": -84.4022817,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7767202,
+            "longitude": -84.3877313,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7768029,
+            "longitude": -84.3917044,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.776851,
+            "longitude": -84.3938595,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Ferst Drive & Fowler Street",
+            "latitude": 33.7769311,
+            "longitude": -84.3938589,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.776972,
+            "longitude": -84.3916853,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7770187,
+            "longitude": -84.3940569,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7772473,
+            "longitude": -84.3956137,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7775016,
+            "longitude": -84.3955463,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Ferst Drive & Hemphill Avenue",
+            "latitude": 33.7780786,
+            "longitude": -84.4018026,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7781464,
+            "longitude": -84.4018781,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7781393,
+            "longitude": -84.3974606,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7782122,
+            "longitude": -84.3994218,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7783475,
+            "longitude": -84.3981826,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7783943,
+            "longitude": -84.3996264,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7784353,
+            "longitude": -84.4006763,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7785729,
+            "longitude": -84.3871838,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7808545,
+            "longitude": -84.3861841,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "North Avenue Apartments",
+            "latitude": 33.7699478,
+            "longitude": -84.391827,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "North Avenue Apartments",
+            "latitude": 33.7701656,
+            "longitude": -84.3918209,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Tech Tower",
+            "latitude": 33.7722944,
+            "longitude": -84.395501,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7698774,
+            "longitude": -84.3918251,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Village Smoke",
+            "latitude": 33.7702285,
+            "longitude": -84.3918228,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.77182,
+            "longitude": -84.3919193,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.772295,
+            "longitude": -84.3954427,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7723088,
+            "longitude": -84.3956353,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7718101,
+            "longitude": -84.3865658,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7718301,
+            "longitude": -84.3869386,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7662592,
+            "longitude": -84.3873946,
+            "type": "subway_entrance"
+        },
+        {
+            "name": "Garnett",
+            "latitude": 33.7479501,
+            "longitude": -84.3962737,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Garnett",
+            "latitude": 33.7480014,
+            "longitude": -84.3963707,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 34.0936207,
+            "longitude": -84.2711573,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 34.0955739,
+            "longitude": -84.2684728,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Transit Hub",
+            "latitude": 33.7726752,
+            "longitude": -84.3970204,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.6774055,
+            "longitude": -84.440371,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7002064,
+            "longitude": -84.4282165,
+            "type": "subway_entrance"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7006063,
+            "longitude": -84.4299607,
+            "type": "subway_entrance"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7723541,
+            "longitude": -84.4291728,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Techwood Drive & 4th Street",
+            "latitude": 33.7749953,
+            "longitude": -84.3919744,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Techwood Drive & Bobby Dodd Way",
+            "latitude": 33.7739993,
+            "longitude": -84.3919853,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7739965,
+            "longitude": -84.3920748,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7740068,
+            "longitude": -84.3919013,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7749928,
+            "longitude": -84.3920619,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7749947,
+            "longitude": -84.3918851,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7767204,
+            "longitude": -84.3921918,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7782206,
+            "longitude": -84.4041061,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "McMillan Street & 8th Street",
+            "latitude": 33.7794928,
+            "longitude": -84.4041734,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7727829,
+            "longitude": -84.3973484,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.77949,
+            "longitude": -84.4041146,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "College Park",
+            "latitude": 33.6516628,
+            "longitude": -84.4487281,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "College Park",
+            "latitude": 33.6516612,
+            "longitude": -84.4488574,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "East Point",
+            "latitude": 33.67705,
+            "longitude": -84.4407492,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Lakewood/Fort McPherson",
+            "latitude": 33.7001763,
+            "longitude": -84.4288198,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Oakland City",
+            "latitude": 33.7167927,
+            "longitude": -84.4251442,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "West End",
+            "latitude": 33.7360263,
+            "longitude": -84.4136431,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "King Memorial",
+            "latitude": 33.7499798,
+            "longitude": -84.3754468,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Georgia State",
+            "latitude": 33.750171,
+            "longitude": -84.3859958,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "West Lake",
+            "latitude": 33.7533204,
+            "longitude": -84.4453446,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Hamilton E. Holmes",
+            "latitude": 33.7544715,
+            "longitude": -84.4700246,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Hamilton E. Holmes",
+            "latitude": 33.7545084,
+            "longitude": -84.4700265,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7577188,
+            "longitude": -84.3536397,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Inman Park/Reynoldstown",
+            "latitude": 33.7578318,
+            "longitude": -84.3523068,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Bankhead",
+            "latitude": 33.7722295,
+            "longitude": -84.4289889,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Bankhead",
+            "latitude": 33.7722351,
+            "longitude": -84.4288824,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7892245,
+            "longitude": -84.3868636,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Lindbergh Center",
+            "latitude": 33.8227004,
+            "longitude": -84.3694749,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Lindbergh Center",
+            "latitude": 33.8227272,
+            "longitude": -84.3696109,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Lenox",
+            "latitude": 33.8455487,
+            "longitude": -84.3577047,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Lenox",
+            "latitude": 33.845657,
+            "longitude": -84.3577811,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Buckhead",
+            "latitude": 33.8489649,
+            "longitude": -84.3684594,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Buckhead",
+            "latitude": 33.8490108,
+            "longitude": -84.3683436,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.9105391,
+            "longitude": -84.3514946,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Medical Center",
+            "latitude": 33.9107421,
+            "longitude": -84.3515386,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Medical Center",
+            "latitude": 33.9107844,
+            "longitude": -84.3515369,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Sandy Springs",
+            "latitude": 33.9321838,
+            "longitude": -84.3520532,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Sandy Springs",
+            "latitude": 33.9322186,
+            "longitude": -84.3520149,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "North Springs",
+            "latitude": 33.9451174,
+            "longitude": -84.3572652,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "North Springs",
+            "latitude": 33.9451202,
+            "longitude": -84.3571346,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.9451508,
+            "longitude": -84.3573748,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 34.085974,
+            "longitude": -84.2604961,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 34.088494,
+            "longitude": -84.2572631,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 34.0885808,
+            "longitude": -84.2572957,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 34.088718,
+            "longitude": -84.2564228,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 34.0887644,
+            "longitude": -84.2564368,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Windward Pkwy & Westside Pkwy",
+            "latitude": 34.0874716,
+            "longitude": -84.2688415,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Windward Pkwy & Edison Dr",
+            "latitude": 34.0894215,
+            "longitude": -84.2527288,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 34.0894731,
+            "longitude": -84.252728,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Deerfield Pkwy & Morris Rd",
+            "latitude": 34.0908816,
+            "longitude": -84.2700838,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 34.0909152,
+            "longitude": -84.2700215,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Windward Plaza & 4025",
+            "latitude": 34.0932385,
+            "longitude": -84.2396214,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 34.0936336,
+            "longitude": -84.271295,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Deerfield Pkwy & Three Verizon Pl",
+            "latitude": 34.0956327,
+            "longitude": -84.2684913,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 34.0977308,
+            "longitude": -84.2595376,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 34.0980171,
+            "longitude": -84.2638341,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 34.0994917,
+            "longitude": -84.2407815,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 34.0994954,
+            "longitude": -84.2408842,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Auburn at Piedmont",
+            "latitude": 33.7555727,
+            "longitude": -84.3820228,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Carnegie at Spring",
+            "latitude": 33.7595139,
+            "longitude": -84.389673,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Centennial Olympic Park",
+            "latitude": 33.7593926,
+            "longitude": -84.3920185,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Dobbs Plaza",
+            "latitude": 33.7555506,
+            "longitude": -84.3788224,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Edgewood at Hillard",
+            "latitude": 33.7543706,
+            "longitude": -84.3763406,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Hurt Park",
+            "latitude": 33.7544616,
+            "longitude": -84.3853959,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "King Historic District",
+            "latitude": 33.7555153,
+            "longitude": -84.3749189,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Sweet Auburn Market",
+            "latitude": 33.7543828,
+            "longitude": -84.3800075,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Peachtree St NE & Peachtree Cir NE",
+            "latitude": 33.7959394,
+            "longitude": -84.3878754,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Peachtree St NW & Peachtree Cir NE",
+            "latitude": 33.7956188,
+            "longitude": -84.3876155,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Medical Center MARTA",
+            "latitude": 33.9106876,
+            "longitude": -84.3519349,
+            "type": "subway_entrance"
+        },
+        {
+            "name": "Peachtree Center",
+            "latitude": 33.7581217,
+            "longitude": -84.3875547,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Luckie at Cone",
+            "latitude": 33.7580503,
+            "longitude": -84.3903518,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Woodruff Park",
+            "latitude": 33.7560202,
+            "longitude": -84.3881822,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Park Place",
+            "latitude": 33.7551335,
+            "longitude": -84.3882255,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "North Deck",
+            "latitude": 33.7801858,
+            "longitude": -84.3990865,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7801875,
+            "longitude": -84.3990041,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7816019,
+            "longitude": -84.4040445,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "10th and Hemphill",
+            "latitude": 33.7815347,
+            "longitude": -84.4039973,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Fulton",
+            "latitude": 36.5236449,
+            "longitude": -88.8870698,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Peachtree Rd & Lindbergh Dr",
+            "latitude": 33.8229902,
+            "longitude": -84.3876228,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "110",
+            "latitude": 33.8227362,
+            "longitude": -84.3873975,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Peachtree Rd NW & Terrace Dr NE",
+            "latitude": 33.8215351,
+            "longitude": -84.3880707,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Peachtree Rd NW & Terrace Dr NE",
+            "latitude": 33.8212766,
+            "longitude": -84.3878963,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Bankhead",
+            "latitude": 33.7722571,
+            "longitude": -84.4289408,
+            "type": "public_transport_station"
+        },
+        {
+            "name": "Peachtree Center",
+            "latitude": 33.7581455,
+            "longitude": -84.3876126,
+            "type": "public_transport_station"
+        },
+        {
+            "name": "West Lake",
+            "latitude": 33.7533207,
+            "longitude": -84.4453009,
+            "type": "public_transport_station"
+        },
+        {
+            "name": "Lenox",
+            "latitude": 33.8455868,
+            "longitude": -84.3577479,
+            "type": "public_transport_station"
+        },
+        {
+            "name": "Buckhead",
+            "latitude": 33.8489627,
+            "longitude": -84.3684019,
+            "type": "public_transport_station"
+        },
+        {
+            "name": "Medical Center",
+            "latitude": 33.9107658,
+            "longitude": -84.3514569,
+            "type": "public_transport_station"
+        },
+        {
+            "name": "Hamilton E. Holmes",
+            "latitude": 33.7545134,
+            "longitude": -84.4699478,
+            "type": "public_transport_station"
+        },
+        {
+            "name": "West End",
+            "latitude": 33.7360535,
+            "longitude": -84.4136642,
+            "type": "public_transport_station"
+        },
+        {
+            "name": "Oakland City",
+            "latitude": 33.7167992,
+            "longitude": -84.425187,
+            "type": "public_transport_station"
+        },
+        {
+            "name": "East Point",
+            "latitude": 33.6770378,
+            "longitude": -84.4406902,
+            "type": "public_transport_station"
+        },
+        {
+            "name": "College Park",
+            "latitude": 33.6516643,
+            "longitude": -84.4487904,
+            "type": "public_transport_station"
+        },
+        {
+            "name": "Civic Center",
+            "latitude": 33.7665094,
+            "longitude": -84.3875419,
+            "type": "public_transport_station"
+        },
+        {
+            "name": "North Avenue",
+            "latitude": 33.7716124,
+            "longitude": -84.3868412,
+            "type": "public_transport_station"
+        },
+        {
+            "name": "Midtown",
+            "latitude": 33.7810921,
+            "longitude": -84.3865175,
+            "type": "public_transport_station"
+        },
+        {
+            "name": "Arts Center",
+            "latitude": 33.7891209,
+            "longitude": -84.3873247,
+            "type": "public_transport_station"
+        },
+        {
+            "name": "King Memorial",
+            "latitude": 33.7500081,
+            "longitude": -84.3754514,
+            "type": "public_transport_station"
+        },
+        {
+            "name": "Georgia State",
+            "latitude": 33.7501652,
+            "longitude": -84.3859566,
+            "type": "public_transport_station"
+        },
+        {
+            "name": "Inman Park/Reynoldstown",
+            "latitude": 33.7578223,
+            "longitude": -84.3523602,
+            "type": "public_transport_station"
+        },
+        {
+            "name": "Moreland Ave & Euclid Ave",
+            "latitude": 33.7650696,
+            "longitude": -84.3493857,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7725077,
+            "longitude": -84.3490757,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Moreland Ave & 299",
+            "latitude": 33.7622249,
+            "longitude": -84.3493667,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Moreland Ave & Druid Pl",
+            "latitude": 33.7690779,
+            "longitude": -84.3491154,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7739692,
+            "longitude": -84.3491107,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Dekalb Ave NE & Haralson Ave NE",
+            "latitude": 33.7600196,
+            "longitude": -84.3497552,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7587356,
+            "longitude": -84.3516679,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7813992,
+            "longitude": -84.389315,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "10th St NE & Williams St",
+            "latitude": 33.7816537,
+            "longitude": -84.390225,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Rental Car Center",
+            "latitude": 33.6398688,
+            "longitude": -84.4644498,
+            "type": "public_transport_station"
+        },
+        {
+            "name": "Sandy Springs",
+            "latitude": 33.9321993,
+            "longitude": -84.3520404,
+            "type": "public_transport_station"
+        },
+        {
+            "name": "Lakewood/Fort McPherson",
+            "latitude": 33.7001356,
+            "longitude": -84.4288957,
+            "type": "public_transport_station"
+        },
+        {
+            "name": "Garnett",
+            "latitude": 33.748163,
+            "longitude": -84.3961654,
+            "type": "public_transport_station"
+        },
+        {
+            "name": "North Springs",
+            "latitude": 33.9451211,
+            "longitude": -84.3571916,
+            "type": "public_transport_station"
+        },
+        {
+            "name": "Lindbergh Center",
+            "latitude": 33.8227538,
+            "longitude": -84.3695494,
+            "type": "public_transport_station"
+        },
+        {
+            "name": "Five Points",
+            "latitude": 33.7538326,
+            "longitude": -84.391609,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Five Points",
+            "latitude": 33.7538598,
+            "longitude": -84.3916238,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7714689,
+            "longitude": -84.392184,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.9319965,
+            "longitude": -84.3511766,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7255203,
+            "longitude": -84.3532525,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Northside Dr@Trabert Ave",
+            "latitude": 33.7944922,
+            "longitude": -84.4072942,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Northside Dr@Trabert Ave",
+            "latitude": 33.7938123,
+            "longitude": -84.4077752,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7767328,
+            "longitude": -84.3920134,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7170568,
+            "longitude": -84.4259968,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7750702,
+            "longitude": -84.4026797,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Four Corners Booth 1",
+            "latitude": 43.0508069,
+            "longitude": -74.3455758,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7170055,
+            "longitude": -84.4259679,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.8232883,
+            "longitude": -84.3696123,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.8232822,
+            "longitude": -84.3695414,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.8232816,
+            "longitude": -84.3701489,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.8213585,
+            "longitude": -84.3692953,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7169712,
+            "longitude": -84.4259441,
+            "type": "subway_entrance"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7168602,
+            "longitude": -84.4259868,
+            "type": "subway_entrance"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.716888,
+            "longitude": -84.4246302,
+            "type": "subway_entrance"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.6768853,
+            "longitude": -84.4407397,
+            "type": "subway_entrance"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.6780225,
+            "longitude": -84.4403516,
+            "type": "subway_entrance"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.6774184,
+            "longitude": -84.4404378,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.9325218,
+            "longitude": -84.3527282,
+            "type": "subway_entrance"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.9333191,
+            "longitude": -84.3524447,
+            "type": "subway_entrance"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.9320864,
+            "longitude": -84.3513998,
+            "type": "subway_entrance"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.9319678,
+            "longitude": -84.3512077,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.910614,
+            "longitude": -84.350718,
+            "type": "subway_entrance"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.9105924,
+            "longitude": -84.3514935,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7006794,
+            "longitude": -84.3505718,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Midtown",
+            "latitude": 33.781109,
+            "longitude": -84.3863455,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "North Avenue",
+            "latitude": 33.7726001,
+            "longitude": -84.3870272,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Civic Center",
+            "latitude": 33.7665042,
+            "longitude": -84.3874613,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Five Points",
+            "latitude": 33.7538636,
+            "longitude": -84.3916633,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Peachtree Center",
+            "latitude": 33.7595147,
+            "longitude": -84.38764,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Five Points",
+            "latitude": 33.7539259,
+            "longitude": -84.3915726,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "GWCC/CNN Center",
+            "latitude": 33.7562703,
+            "longitude": -84.3975722,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "GWCC/CNN Center",
+            "latitude": 33.7561181,
+            "longitude": -84.3976031,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Vine City",
+            "latitude": 33.7564911,
+            "longitude": -84.4039844,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Ashby",
+            "latitude": 33.7564492,
+            "longitude": -84.4174054,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Civic Center",
+            "latitude": 33.7665134,
+            "longitude": -84.3875144,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Arts Center",
+            "latitude": 33.7891223,
+            "longitude": -84.3873846,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Rental Car Center",
+            "latitude": 33.6399828,
+            "longitude": -84.4650032,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Rental Car Center",
+            "latitude": 33.6398128,
+            "longitude": -84.4638535,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "176064",
+            "latitude": 33.6245931,
+            "longitude": -84.4602004,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.6246985,
+            "longitude": -84.4602796,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "176088",
+            "latitude": 33.6234078,
+            "longitude": -84.4743644,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.6234832,
+            "longitude": -84.4741704,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.6250953,
+            "longitude": -84.4583207,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "176066",
+            "latitude": 33.62514,
+            "longitude": -84.4580956,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Ivan Allen Jr Blvd NW & Lovejoy St",
+            "latitude": 33.7646494,
+            "longitude": -84.393444,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 34.1042259,
+            "longitude": -84.2489491,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Ashby",
+            "latitude": 33.7564795,
+            "longitude": -84.4173474,
+            "type": "public_transport_station"
+        },
+        {
+            "name": "GWCC/CNN Center",
+            "latitude": 33.7561897,
+            "longitude": -84.3975955,
+            "type": "public_transport_station"
+        },
+        {
+            "name": "Atlanta",
+            "latitude": 33.7993702,
+            "longitude": -84.3926489,
+            "type": "public_transport_station"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7497115,
+            "longitude": -84.3853114,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7473586,
+            "longitude": -84.3875121,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7275499,
+            "longitude": -84.3632563,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7274126,
+            "longitude": -84.3623781,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7270207,
+            "longitude": -84.3595846,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.726679,
+            "longitude": -84.3571491,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7255499,
+            "longitude": -84.3531819,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "United Ave @ Home Ave SE",
+            "latitude": 33.7294184,
+            "longitude": -84.3645519,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7292723,
+            "longitude": -84.3643358,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7155787,
+            "longitude": -84.3530634,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7242139,
+            "longitude": -84.3499436,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.724446,
+            "longitude": -84.3507632,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7248148,
+            "longitude": -84.3520832,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7264821,
+            "longitude": -84.3557433,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7304506,
+            "longitude": -84.3656711,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.730485,
+            "longitude": -84.3681189,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Cherokee Ave & Ormond St",
+            "latitude": 33.7312304,
+            "longitude": -84.3735488,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Cherokee Ave & Grant Park Pl",
+            "latitude": 33.7323592,
+            "longitude": -84.3735502,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Cherokee Ave SE & Augusta Ave SE",
+            "latitude": 33.733641,
+            "longitude": -84.3735517,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Cherokee Ave SE & Bass St SE",
+            "latitude": 33.7347568,
+            "longitude": -84.3735556,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Georgia Ave SE & Cherokee Ave SE",
+            "latitude": 33.736685,
+            "longitude": -84.3742295,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Georgia Ave SE & Grant St SE",
+            "latitude": 33.7367202,
+            "longitude": -84.3762318,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Georgia Ave SE & Hill St SE",
+            "latitude": 33.7367921,
+            "longitude": -84.3782859,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Georgia Ave SE & Grant Ter SE",
+            "latitude": 33.7368111,
+            "longitude": -84.3797597,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Georgia Ave SE & Ami St SE",
+            "latitude": 33.7368375,
+            "longitude": -84.3821117,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Georgia Ave SE & Martin St SE",
+            "latitude": 33.7368567,
+            "longitude": -84.3838187,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Georgia Ave SE & Fraser St SE",
+            "latitude": 33.7368932,
+            "longitude": -84.3862112,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Georgia Ave & Hank Aaron Dr",
+            "latitude": 33.736957,
+            "longitude": -84.3877038,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Ralph D Abernath Blvd @ Central Ave",
+            "latitude": 33.7369291,
+            "longitude": -84.3932586,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7370105,
+            "longitude": -84.396881,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Ralph D Abernathy Blvd @ Ira St",
+            "latitude": 33.7370785,
+            "longitude": -84.3997871,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Ralph D Abernathy Blvd @ McDaniel St SW",
+            "latitude": 33.7371365,
+            "longitude": -84.4020818,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7366949,
+            "longitude": -84.4046124,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7383198,
+            "longitude": -84.4118946,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "West End Station",
+            "latitude": 33.7360634,
+            "longitude": -84.4134333,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Vine City",
+            "latitude": 33.7566121,
+            "longitude": -84.4039896,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7360898,
+            "longitude": -84.413433,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7382391,
+            "longitude": -84.4118933,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7366415,
+            "longitude": -84.4045982,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.736938,
+            "longitude": -84.3968827,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7368419,
+            "longitude": -84.387707,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.736824,
+            "longitude": -84.3862089,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7367875,
+            "longitude": -84.3838151,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7367668,
+            "longitude": -84.3821145,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7367355,
+            "longitude": -84.3797636,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7367123,
+            "longitude": -84.3782857,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7366495,
+            "longitude": -84.3762378,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7366098,
+            "longitude": -84.3742329,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7347515,
+            "longitude": -84.3736368,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7323581,
+            "longitude": -84.3736338,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.731226,
+            "longitude": -84.3736319,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7304304,
+            "longitude": -84.3681308,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7303827,
+            "longitude": -84.3656752,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7292509,
+            "longitude": -84.3643888,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7273379,
+            "longitude": -84.3623905,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7269488,
+            "longitude": -84.3595931,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.726608,
+            "longitude": -84.3571538,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7264133,
+            "longitude": -84.3557547,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7247393,
+            "longitude": -84.3520987,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7243723,
+            "longitude": -84.3507806,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7241428,
+            "longitude": -84.349968,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7223821,
+            "longitude": -84.3494452,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.718865,
+            "longitude": -84.3494712,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7155754,
+            "longitude": -84.3531024,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 43.0711907,
+            "longitude": -74.3324654,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Four Corners Booth 3",
+            "latitude": 43.0502592,
+            "longitude": -74.3457366,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Four Corners Booth 2",
+            "latitude": 43.0503827,
+            "longitude": -74.3458516,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "City Hall Bus Stop",
+            "latitude": 43.0521546,
+            "longitude": -74.3489549,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Price Chopper Bus Stop",
+            "latitude": 43.0625516,
+            "longitude": -74.3384308,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7535847,
+            "longitude": -84.3910623,
+            "type": "subway_entrance"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7542358,
+            "longitude": -84.3921943,
+            "type": "subway_entrance"
+        },
+        {
+            "name": "DuBois Gardens",
+            "latitude": 43.0579202,
+            "longitude": -74.3578297,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Peachtree Rd NE & Peachtree Battle Ave",
+            "latitude": 33.819517,
+            "longitude": -84.388419,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Vine City",
+            "latitude": 33.7565641,
+            "longitude": -84.4040115,
+            "type": "public_transport_station"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 34.0055641,
+            "longitude": -84.2975247,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 34.0050832,
+            "longitude": -84.2976324,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Atlanta",
+            "latitude": 33.7991424,
+            "longitude": -84.3929087,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "GTS FMCC Dorms",
+            "latitude": 42.9861458,
+            "longitude": -74.2925352,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7736874,
+            "longitude": -84.3868151,
+            "type": "subway_entrance"
+        },
+        {
+            "name": "School Bus",
+            "latitude": 41.5314674,
+            "longitude": -84.1341718,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Glove City taxi",
+            "latitude": 43.0479073,
+            "longitude": -74.3458584,
+            "type": "Unknown"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 43.0498417,
+            "longitude": -74.3459491,
+            "type": "Unknown"
+        },
+        {
+            "name": "YMCA - Fulton County Stop",
+            "latitude": 43.0196036,
+            "longitude": -74.3483964,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Megabus & Flixbus",
+            "latitude": 33.7669277,
+            "longitude": -84.3874324,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Speedway (Rochester (e), IN)",
+            "latitude": 41.0511552,
+            "longitude": -86.2174371,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "North Bus Stop",
+            "latitude": 33.9864305,
+            "longitude": -84.2757464,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "South Bus Stop",
+            "latitude": 33.9851763,
+            "longitude": -84.2745037,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Techwood Drive & North Avenue",
+            "latitude": 33.7718169,
+            "longitude": -84.3920052,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "GTS South Main & Pine",
+            "latitude": 43.0462311,
+            "longitude": -74.3484704,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "GTS Forest Hill Towers",
+            "latitude": 43.0481367,
+            "longitude": -74.3453292,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "GTS Judson & Steele Avenue",
+            "latitude": 43.0451774,
+            "longitude": -74.3390444,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "GTS Saratoga & Woodward",
+            "latitude": 43.0484891,
+            "longitude": -74.3271131,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "GTS Arterial Plaza",
+            "latitude": 43.0577112,
+            "longitude": -74.3249822,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "GTS Hannaford",
+            "latitude": 43.0603879,
+            "longitude": -74.3220661,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "GTS Melchoir Park",
+            "latitude": 43.0568141,
+            "longitude": -74.3344091,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "GTS Second & Main",
+            "latitude": 43.0547921,
+            "longitude": -74.3428698,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "GTS Johnstown Four Corners",
+            "latitude": 43.0066745,
+            "longitude": -74.3712887,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "GTS Wells House",
+            "latitude": 42.999572,
+            "longitude": -74.3790207,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "GTS Crossroads Industrial Park",
+            "latitude": 43.0209288,
+            "longitude": -74.3430237,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "GTS 30A & 67",
+            "latitude": 43.0022375,
+            "longitude": -74.3584013,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "GTS S Main & Cayadutta",
+            "latitude": 43.0477277,
+            "longitude": -74.3475781,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "GTS Fulton County DSS",
+            "latitude": 43.0246627,
+            "longitude": -74.3676278,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "GTS Main & Harrison",
+            "latitude": 43.0350548,
+            "longitude": -74.3546095,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "GTS Perth Primary Care",
+            "latitude": 43.0231809,
+            "longitude": -74.197813,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "GTS Perth Four Corners",
+            "latitude": 43.0169119,
+            "longitude": -74.1935667,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7539052,
+            "longitude": -84.3912485,
+            "type": "subway_entrance"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7536399,
+            "longitude": -84.3914881,
+            "type": "subway_entrance"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7541482,
+            "longitude": -84.3916917,
+            "type": "subway_entrance"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.753872,
+            "longitude": -84.3919023,
+            "type": "subway_entrance"
+        },
+        {
+            "name": "Forest & Judson St",
+            "latitude": 43.0478191,
+            "longitude": -74.3395576,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Steele & Kingsboro Ave",
+            "latitude": 43.0447343,
+            "longitude": -74.3351872,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "North Blvd & Kingsboro Ave",
+            "latitude": 43.0604206,
+            "longitude": -74.3347659,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Fulton St & Kingsboro Ave",
+            "latitude": 43.0508228,
+            "longitude": -74.3333806,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Seventh & Main",
+            "latitude": 43.0599062,
+            "longitude": -74.339864,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Kingsboro & State",
+            "latitude": 43.0674752,
+            "longitude": -74.3364971,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "GHS",
+            "latitude": 43.0534195,
+            "longitude": -74.3620088,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7566053,
+            "longitude": -84.4039896,
+            "type": "stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.756501,
+            "longitude": -84.4039843,
+            "type": "stop"
+        },
+        {
+            "name": "Electric Avenue Bus Loop",
+            "latitude": 33.7566413,
+            "longitude": -84.4043464,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Postell Street Bus Loop",
+            "latitude": 33.7565312,
+            "longitude": -84.403562,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.756252,
+            "longitude": -84.397576,
+            "type": "stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7561392,
+            "longitude": -84.397602,
+            "type": "stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7563912,
+            "longitude": -84.3988371,
+            "type": "subway_entrance"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7603697,
+            "longitude": -84.3878474,
+            "type": "subway_entrance"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7595162,
+            "longitude": -84.38763,
+            "type": "stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7595142,
+            "longitude": -84.3875681,
+            "type": "stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.8489986,
+            "longitude": -84.368366,
+            "type": "stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.8489726,
+            "longitude": -84.3684419,
+            "type": "stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7885567,
+            "longitude": -84.3869054,
+            "type": "subway_entrance"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7892666,
+            "longitude": -84.3867187,
+            "type": "subway_entrance"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7891528,
+            "longitude": -84.3874608,
+            "type": "subway_entrance"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7717945,
+            "longitude": -84.3868619,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7372669,
+            "longitude": -84.4080527,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7502101,
+            "longitude": -84.3859577,
+            "type": "stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7501656,
+            "longitude": -84.3860034,
+            "type": "stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7538853,
+            "longitude": -84.3916997,
+            "type": "stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7538139,
+            "longitude": -84.3915757,
+            "type": "stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7538279,
+            "longitude": -84.3916529,
+            "type": "stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.753952,
+            "longitude": -84.3915493,
+            "type": "stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7725903,
+            "longitude": -84.3869476,
+            "type": "stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7726062,
+            "longitude": -84.3870432,
+            "type": "stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7716956,
+            "longitude": -84.3872814,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7891271,
+            "longitude": -84.3873645,
+            "type": "stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.789137,
+            "longitude": -84.3872856,
+            "type": "stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.789686,
+            "longitude": -84.3871841,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7897067,
+            "longitude": -84.3870196,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7889615,
+            "longitude": -84.3868779,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7893491,
+            "longitude": -84.3864751,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7816464,
+            "longitude": -84.3864815,
+            "type": "subway_entrance"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7813096,
+            "longitude": -84.386345,
+            "type": "subway_entrance"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7809212,
+            "longitude": -84.3863426,
+            "type": "subway_entrance"
+        },
+        {
+            "name": "Lincoln M-N",
+            "latitude": 33.6097237,
+            "longitude": -84.5031024,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Lincoln P-Q",
+            "latitude": 33.6097264,
+            "longitude": -84.5024006,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.6108039,
+            "longitude": -84.5028815,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.6107979,
+            "longitude": -84.5020511,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.61081,
+            "longitude": -84.5012188,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.6123363,
+            "longitude": -84.5029105,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.6123363,
+            "longitude": -84.501226,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.6133713,
+            "longitude": -84.5027918,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.6136826,
+            "longitude": -84.5019366,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.6139041,
+            "longitude": -84.5006707,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7182157,
+            "longitude": -84.368444,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7771006,
+            "longitude": -84.4503837,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7772355,
+            "longitude": -84.4503598,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7776623,
+            "longitude": -84.451784,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7777957,
+            "longitude": -84.4517856,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7780346,
+            "longitude": -84.4531332,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7818963,
+            "longitude": -84.4566182,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7819329,
+            "longitude": -84.4564103,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7852611,
+            "longitude": -84.4613863,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7812087,
+            "longitude": -84.4557214,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.780957,
+            "longitude": -84.455792,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7853177,
+            "longitude": -84.4612733,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7796948,
+            "longitude": -84.4551762,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.783567,
+            "longitude": -84.4595519,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7879207,
+            "longitude": -84.4644373,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7800442,
+            "longitude": -84.4554864,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7828573,
+            "longitude": -84.4585757,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7829626,
+            "longitude": -84.4589045,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7781681,
+            "longitude": -84.452959,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7825444,
+            "longitude": -84.4581949,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7786643,
+            "longitude": -84.4538439,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7878989,
+            "longitude": -84.4642177,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.8222106,
+            "longitude": -84.3694786,
+            "type": "subway_entrance"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.8258462,
+            "longitude": -84.3524526,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.8249064,
+            "longitude": -84.3583044,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.8259934,
+            "longitude": -84.3639328,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.8222802,
+            "longitude": -84.3698447,
+            "type": "subway_entrance"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.8258972,
+            "longitude": -84.3621585,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 34.0218765,
+            "longitude": -84.3257649,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.6110121,
+            "longitude": -84.52358,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.6234505,
+            "longitude": -84.4866506,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.6286582,
+            "longitude": -84.4723467,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.6241827,
+            "longitude": -84.4794975,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.6141048,
+            "longitude": -84.5172957,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.6220287,
+            "longitude": -84.5018142,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.626707,
+            "longitude": -84.4747396,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.6237167,
+            "longitude": -84.4839877,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.6128098,
+            "longitude": -84.519963,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.6239518,
+            "longitude": -84.4810474,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.6257636,
+            "longitude": -84.4759025,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.6230587,
+            "longitude": -84.4919202,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.6227439,
+            "longitude": -84.4942636,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.6224925,
+            "longitude": -84.4974084,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.6076978,
+            "longitude": -84.5302275,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.6061392,
+            "longitude": -84.5333906,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.6007549,
+            "longitude": -84.5444354,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.6005733,
+            "longitude": -84.5442503,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7895113,
+            "longitude": -84.4032188,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7910469,
+            "longitude": -84.396882,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7913669,
+            "longitude": -84.4073274,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7911065,
+            "longitude": -84.3990303,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7910715,
+            "longitude": -84.394562,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7882891,
+            "longitude": -84.3857298,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7882806,
+            "longitude": -84.3848008,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7825074,
+            "longitude": -84.368316,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7500013,
+            "longitude": -84.3757258,
+            "type": "subway_entrance"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7497924,
+            "longitude": -84.3761581,
+            "type": "subway_entrance"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.6796522,
+            "longitude": -84.4401001,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7460837,
+            "longitude": -84.4069364,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7488377,
+            "longitude": -84.4048351,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7490195,
+            "longitude": -84.4192635,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 34.0282033,
+            "longitude": -84.334892,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 34.0259595,
+            "longitude": -84.332065,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 34.0329456,
+            "longitude": -84.3408604,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.6592452,
+            "longitude": -84.4297542,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.659196,
+            "longitude": -84.4329766,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7762501,
+            "longitude": -84.3845843,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.8260444,
+            "longitude": -84.3672864,
+            "type": "public_transport_stop"
+        }
+    ],
+    "DeKalb County": [
+        {
+            "name": "Clairemont Ave & Garden Ln",
+            "latitude": 33.7835005,
+            "longitude": -84.3019948,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Indian Creek",
+            "latitude": 33.769887,
+            "longitude": -84.229722,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Clifton - Gatewood (SB)",
+            "latitude": 33.797219,
+            "longitude": -84.322412,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Edgewood/Candler Park",
+            "latitude": 33.7619632,
+            "longitude": -84.3398746,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "North Decatur - McDonalds",
+            "latitude": 33.7903775,
+            "longitude": -84.3066399,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "10",
+            "latitude": 41.9892938,
+            "longitude": -88.6899613,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Sycamore Rd. at Gateway Dr.",
+            "latitude": 41.9619122,
+            "longitude": -88.7197657,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "24",
+            "latitude": 41.9640313,
+            "longitude": -88.7178823,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Regent Dr at Eco Park Dr",
+            "latitude": 41.9418488,
+            "longitude": -88.7788621,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "32",
+            "latitude": 41.988007,
+            "longitude": -88.691194,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "1",
+            "latitude": 41.988197,
+            "longitude": -88.692767,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Hopkins Park Bus Stop",
+            "latitude": 41.9506887,
+            "longitude": -88.7270858,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "7th St at Pleasant St",
+            "latitude": 41.9327157,
+            "longitude": -88.743656,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Normal Rd. at Edgebrook Dr.",
+            "latitude": 41.946986,
+            "longitude": -88.765755,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Blackhawk Rd. at Edgebrook Dr",
+            "latitude": 41.946994,
+            "longitude": -88.7699701,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "8",
+            "latitude": 41.988326,
+            "longitude": -88.68306,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Normal Rd. at Hillcrest Dr.",
+            "latitude": 41.9451,
+            "longitude": -88.765744,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Blackhawk Rd. at Hillcrest Dr.",
+            "latitude": 41.945482,
+            "longitude": -88.76998,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Castle Dr. at Montgomery",
+            "latitude": 41.932405,
+            "longitude": -88.762994,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Varsity Blvd. at Pappas Dr.",
+            "latitude": 41.943538,
+            "longitude": -88.7741127,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Varsity Blvd. at Regent Dr.",
+            "latitude": 41.943525,
+            "longitude": -88.778804,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Russell Rd. at Crane Dr.",
+            "latitude": 41.939523,
+            "longitude": -88.768213,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "DuSable Turnaround",
+            "latitude": 41.9347054,
+            "longitude": -88.770153,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "13",
+            "latitude": 41.9811715,
+            "longitude": -88.7065248,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "28",
+            "latitude": 41.976765,
+            "longitude": -88.697436,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Normal Rd. at High Terrace",
+            "latitude": 41.942614,
+            "longitude": -88.765767,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Normal Rd. at Kimbery Dr.",
+            "latitude": 41.946053,
+            "longitude": -88.7657549,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Blackhawk Rd. at Kimberly Dr.",
+            "latitude": 41.946228,
+            "longitude": -88.769975,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "11",
+            "latitude": 41.993674,
+            "longitude": -88.693648,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "16",
+            "latitude": 41.9659943,
+            "longitude": -88.7194095,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "14,26",
+            "latitude": 41.97373,
+            "longitude": -88.717166,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Barsema Hall",
+            "latitude": 41.9396396,
+            "longitude": -88.7610064,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "12",
+            "latitude": 41.984581,
+            "longitude": -88.697825,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Ben Gordon Center Bus Stop (2)",
+            "latitude": 41.964758,
+            "longitude": -88.7214453,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "College Ave. at Castle Dr.",
+            "latitude": 41.9341405,
+            "longitude": -88.7621913,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "New Hall West",
+            "latitude": 41.937838,
+            "longitude": -88.775422,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Twombly Rd. at Suburban Estates (3rd Shelter)",
+            "latitude": 41.9508893,
+            "longitude": -88.7778064,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Twombly Rd. at Suburban Estates (1st Shelter)",
+            "latitude": 41.9508917,
+            "longitude": -88.7819058,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "4",
+            "latitude": 41.993674,
+            "longitude": -88.684622,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Normal Rd. at Northern Ln.",
+            "latitude": 41.940032,
+            "longitude": -88.765775,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Normal Rd. at Greenbrier Rd.",
+            "latitude": 41.944163,
+            "longitude": -88.765766,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Ridge Rd. at Normal Rd.",
+            "latitude": 41.948519,
+            "longitude": -88.7657611,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Greenbrier Rd. at 1st Driveway",
+            "latitude": 41.944159,
+            "longitude": -88.768727,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Greenbrier Rd. at Hillcrest Dr.",
+            "latitude": 41.945085,
+            "longitude": -88.77096,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Blackhawk Rd. at Ridge Rd.",
+            "latitude": 41.948542,
+            "longitude": -88.7699751,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Lincoln Hwy at Fatty's",
+            "latitude": 41.930705,
+            "longitude": -88.779539,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Gilbert Way at Art Building",
+            "latitude": 41.9354724,
+            "longitude": -88.7621819,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Annie Glidden Road at CVS",
+            "latitude": 41.930477,
+            "longitude": -88.773092,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "7th St at Sycamore Rd",
+            "latitude": 41.9386282,
+            "longitude": -88.7438845,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "27",
+            "latitude": 41.971925,
+            "longitude": -88.702041,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "25",
+            "latitude": 41.970843,
+            "longitude": -88.718222,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Decatur MARTA Swanton Entrance",
+            "latitude": 33.7746056,
+            "longitude": -84.2969129,
+            "type": "subway_entrance"
+        },
+        {
+            "name": "Decatur",
+            "latitude": 33.7746009,
+            "longitude": -84.2960578,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7746054,
+            "longitude": -84.2946472,
+            "type": "Unknown"
+        },
+        {
+            "name": "North Decatur - Haygood",
+            "latitude": 33.7919145,
+            "longitude": -84.3148528,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Decatur",
+            "latitude": 33.7745775,
+            "longitude": -84.2970993,
+            "type": "public_transport_station"
+        },
+        {
+            "name": "Avondale",
+            "latitude": 33.7756713,
+            "longitude": -84.2817893,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Clifton - 1599 Building",
+            "latitude": 33.8000484,
+            "longitude": -84.3243182,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Clairemont-Michigan(NB)",
+            "latitude": 33.7818737,
+            "longitude": -84.299128,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Clairemont-Wilton (SB)",
+            "latitude": 33.7821739,
+            "longitude": -84.299655,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Clairmont Oaks(NB)",
+            "latitude": 33.7799538,
+            "longitude": -84.2970188,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Clairmont Oaks(SB)",
+            "latitude": 33.7798839,
+            "longitude": -84.2969724,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Clairemont-Scott(NB)",
+            "latitude": 33.7847505,
+            "longitude": -84.3038126,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Clairemont-Scott(SB)",
+            "latitude": 33.7850086,
+            "longitude": -84.3041491,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.8874065,
+            "longitude": -84.30574,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Two Decatur Town Center",
+            "latitude": 33.776487,
+            "longitude": -84.2965155,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Clairemont Ave & Williams St",
+            "latitude": 33.7790578,
+            "longitude": -84.2965523,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.8184663,
+            "longitude": -84.2225202,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Clifton - Woodruff Admin",
+            "latitude": 33.7946772,
+            "longitude": -84.3210984,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Clifton - Gatewood (NB)",
+            "latitude": 33.7969119,
+            "longitude": -84.32219,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Clifton - 1525 Building",
+            "latitude": 33.797878,
+            "longitude": -84.3231858,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Clifton - Nursing",
+            "latitude": 33.7983027,
+            "longitude": -84.3235589,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Clifton - CDC",
+            "latitude": 33.7995922,
+            "longitude": -84.3251264,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7755554,
+            "longitude": -84.28213,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7756078,
+            "longitude": -84.2819757,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.8183739,
+            "longitude": -84.2228957,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "E Ponce De Leon Ave & Mell Ave",
+            "latitude": 33.8035954,
+            "longitude": -84.2481996,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "N Decatur Rd & N Superior Ave",
+            "latitude": 33.7912116,
+            "longitude": -84.2995799,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.8149335,
+            "longitude": -84.236182,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "E Ponce De Leon Ave & Grove Pl",
+            "latitude": 33.7766826,
+            "longitude": -84.2794597,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7999345,
+            "longitude": -84.2571729,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.8026125,
+            "longitude": -84.2529833,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7851423,
+            "longitude": -84.2691332,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "E Ponce De Leon Ave & Dekalb Industrial Way",
+            "latitude": 33.7808508,
+            "longitude": -84.2745513,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "E Ponce De Leon Ave & Milton St",
+            "latitude": 33.7963905,
+            "longitude": -84.2616348,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7923184,
+            "longitude": -84.2825157,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.8187052,
+            "longitude": -84.2246231,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "E Ponce De Leon Ave & Exchange Ave",
+            "latitude": 33.7908153,
+            "longitude": -84.2647854,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "N Decatur Rd & Winn Way",
+            "latitude": 33.7929578,
+            "longitude": -84.2805082,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7842636,
+            "longitude": -84.2716113,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "E Ponce De Leon Ave & N Decatur Rd",
+            "latitude": 33.7938651,
+            "longitude": -84.2639173,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7932969,
+            "longitude": -84.2892252,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "N Decatur Rd & Clairmont Cir",
+            "latitude": 33.7907101,
+            "longitude": -84.3025008,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.8186368,
+            "longitude": -84.2323921,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "N Decatur Rd & Kentucky St",
+            "latitude": 33.7937391,
+            "longitude": -84.2692295,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Winn Way & Bill Thrasher Dr",
+            "latitude": 33.7900677,
+            "longitude": -84.2800371,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Winn Way & Irvin Way",
+            "latitude": 33.7888863,
+            "longitude": -84.2794631,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "E Ponce De Leon Ave & Market St",
+            "latitude": 33.8103672,
+            "longitude": -84.2393765,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7936146,
+            "longitude": -84.2940599,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "North Decatur - Kinkos",
+            "latitude": 33.7904227,
+            "longitude": -84.3067842,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.8162335,
+            "longitude": -84.2352835,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "N Decatur Rd & Dekalb Industrial Way",
+            "latitude": 33.7939507,
+            "longitude": -84.2761821,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "E Ponce De Leon Ave & Verdi Way",
+            "latitude": 33.8014111,
+            "longitude": -84.2552994,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7847644,
+            "longitude": -84.2794403,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "E Ponce De Leon Ave & N Indian Creek Dr",
+            "latitude": 33.8069057,
+            "longitude": -84.24178,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "N Decatur Rd & Clairmont Cir",
+            "latitude": 33.7908617,
+            "longitude": -84.3014172,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "North Decatur - Haygood",
+            "latitude": 33.7920582,
+            "longitude": -84.314486,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.812685,
+            "longitude": -84.2377376,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7974827,
+            "longitude": -84.2602602,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Winn Way & Pinehurst St",
+            "latitude": 33.7800817,
+            "longitude": -84.2794886,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "E Ponce De Leon Ave & Pecan St",
+            "latitude": 33.8038873,
+            "longitude": -84.2463864,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7857056,
+            "longitude": -84.266156,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "N Decatur Rd & Frances St",
+            "latitude": 33.7937224,
+            "longitude": -84.2676537,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "North Decatur - Burlington",
+            "latitude": 33.7905539,
+            "longitude": -84.3174044,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "E Ponce De Leon Ave & Valley Brook Rd",
+            "latitude": 33.7952381,
+            "longitude": -84.2628793,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "E Ponce De Leon Ave & Creekdale Dr",
+            "latitude": 33.803066,
+            "longitude": -84.2513552,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "N Decatur Rd & Jordan Ln",
+            "latitude": 33.7937904,
+            "longitude": -84.2716113,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "E Ponce De Leon Ave & 2775",
+            "latitude": 33.7788337,
+            "longitude": -84.2761767,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "N Decatur Rd & E Ponce De Leon Ave",
+            "latitude": 33.7937023,
+            "longitude": -84.264545,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "N Decatur Rd & Webster Dr",
+            "latitude": 33.7904738,
+            "longitude": -84.3041075,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "N Decatur Rd & 2806",
+            "latitude": 33.7937436,
+            "longitude": -84.2781505,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Winn Way & 440",
+            "latitude": 33.7865155,
+            "longitude": -84.2794188,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "E Ponce De Leon Ave & 2947",
+            "latitude": 33.7828839,
+            "longitude": -84.2729419,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.8079793,
+            "longitude": -84.2410099,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7924254,
+            "longitude": -84.2864518,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "N Decatur Rd & Princeton Way",
+            "latitude": 33.7921148,
+            "longitude": -84.3118281,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.8189142,
+            "longitude": -84.2264845,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Winn Way & Rufus Evans Dr",
+            "latitude": 33.7918889,
+            "longitude": -84.2809799,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Winn Way & Coalter Way",
+            "latitude": 33.7829297,
+            "longitude": -84.2794416,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "E Ponce De Leon Ave & Jolly Ave",
+            "latitude": 33.8053037,
+            "longitude": -84.2431128,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7937572,
+            "longitude": -84.2908346,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "N Decatur Rd NE & Ridgewood Dr",
+            "latitude": 33.7913268,
+            "longitude": -84.3164187,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.817634,
+            "longitude": -84.2341208,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.8020619,
+            "longitude": -84.2542332,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "N Arcadia Ave & E Ponce De Leon Ave",
+            "latitude": 33.7777275,
+            "longitude": -84.2805226,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.8191438,
+            "longitude": -84.2294162,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.769333,
+            "longitude": -84.2296165,
+            "type": "Unknown"
+        },
+        {
+            "name": "Clifton - Gambrell Hall",
+            "latitude": 33.7896115,
+            "longitude": -84.3209423,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Clifton - Clinic",
+            "latitude": 33.792278,
+            "longitude": -84.3209795,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Clifton - Egleston",
+            "latitude": 33.7940811,
+            "longitude": -84.321009,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Clifton - Emory Hospital",
+            "latitude": 33.7920028,
+            "longitude": -84.3209743,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Northern Ave & 280",
+            "latitude": 33.7817531,
+            "longitude": -84.247604,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Northern Ave & 281",
+            "latitude": 33.7818245,
+            "longitude": -84.2473197,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "New Kishwaukee Hospital 1st Canopy Bus Stop",
+            "latitude": 41.9619749,
+            "longitude": -88.7212993,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "18",
+            "latitude": 41.9641167,
+            "longitude": -88.7243815,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Green Line Stop 3",
+            "latitude": 41.9636553,
+            "longitude": -88.7206077,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "19",
+            "latitude": 41.9609097,
+            "longitude": -88.7221459,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Old Kishwaukee Shelter",
+            "latitude": 41.9641136,
+            "longitude": -88.7228634,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Northern View Circle",
+            "latitude": 41.9396732,
+            "longitude": -88.7881377,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Grant North",
+            "latitude": 41.9385656,
+            "longitude": -88.7774833,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Clairemont Ave & Clairmont Run",
+            "latitude": 33.7884897,
+            "longitude": -84.3068333,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7932366,
+            "longitude": -84.3218577,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Holmes Student Center",
+            "latitude": 41.9358905,
+            "longitude": -88.7672145,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 41.9397354,
+            "longitude": -88.7611304,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Lucinda at Garden",
+            "latitude": 41.9363358,
+            "longitude": -88.7635257,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Montgomery Hall Bus Stop",
+            "latitude": 41.9323392,
+            "longitude": -88.762993,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Music Building",
+            "latitude": 41.9363883,
+            "longitude": -88.7612942,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Lincoln Hwy at Happy Wok",
+            "latitude": 41.9307563,
+            "longitude": -88.7780748,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 41.9355857,
+            "longitude": -88.7674191,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Lincoln Hwy at LA Tan",
+            "latitude": 41.9309337,
+            "longitude": -88.7738782,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Lincoln Hwy. at Burger King",
+            "latitude": 41.9311007,
+            "longitude": -88.769708,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Normal Rd. at Newman Center",
+            "latitude": 41.9377838,
+            "longitude": -88.7657633,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Lincoln Hwy at Human Resources",
+            "latitude": 41.9313294,
+            "longitude": -88.7836267,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Lincoln Hwy. at Castle Bank",
+            "latitude": 41.930895,
+            "longitude": -88.7550307,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Hy-Vee Bus Stop",
+            "latitude": 41.9582563,
+            "longitude": -88.7188957,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "15",
+            "latitude": 41.9722148,
+            "longitude": -88.7178465,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "29",
+            "latitude": 41.9794601,
+            "longitude": -88.7068037,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "30",
+            "latitude": 41.9799695,
+            "longitude": -88.7054839,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "30",
+            "latitude": 41.9807821,
+            "longitude": -88.7033938,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "College Avenue/Castle Drive Stop",
+            "latitude": 41.9340891,
+            "longitude": -88.7631895,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Art Building Bus Stop",
+            "latitude": 41.9354681,
+            "longitude": -88.7620316,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Health Services Bus Stop",
+            "latitude": 41.9362858,
+            "longitude": -88.764055,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Anderson Hall",
+            "latitude": 41.9382449,
+            "longitude": -88.761021,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Lincoln Hall",
+            "latitude": 41.9363731,
+            "longitude": -88.773333,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Locust St at 2nd St",
+            "latitude": 41.9313837,
+            "longitude": -88.7523023,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Normal Road at Campus Life Building",
+            "latitude": 41.9363789,
+            "longitude": -88.7654837,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Health Services at Lucinda Ave",
+            "latitude": 41.9363842,
+            "longitude": -88.7645799,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 41.9343709,
+            "longitude": -88.7729477,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Holmes Student Center (West Side)",
+            "latitude": 41.9359333,
+            "longitude": -88.7674222,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Swen Parson Hall",
+            "latitude": 41.934512,
+            "longitude": -88.7657442,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7932599,
+            "longitude": -84.3219762,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "East Lake",
+            "latitude": 33.7652466,
+            "longitude": -84.3128958,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "West Mountain Street @ Ridge Avenue",
+            "latitude": 33.8080184,
+            "longitude": -84.1722313,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "West Mountain Street @ Ridge Avenue",
+            "latitude": 33.8079426,
+            "longitude": -84.1719229,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.8066054,
+            "longitude": -84.1766422,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.806709,
+            "longitude": -84.1767012,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.8065553,
+            "longitude": -84.1780812,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.8069653,
+            "longitude": -84.1814099,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.8068662,
+            "longitude": -84.1839177,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Goldsmith Park & Ride",
+            "latitude": 33.8107587,
+            "longitude": -84.1830125,
+            "type": "public_transport_station"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.8101822,
+            "longitude": -84.1709199,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.8114046,
+            "longitude": -84.1710648,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.8117667,
+            "longitude": -84.171337,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.8126788,
+            "longitude": -84.1740932,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.8126231,
+            "longitude": -84.1743158,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7614949,
+            "longitude": -84.3394162,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Edgewood/Candler Park",
+            "latitude": 33.7618508,
+            "longitude": -84.3398514,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7647019,
+            "longitude": -84.3127851,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "East Lake",
+            "latitude": 33.765136,
+            "longitude": -84.3128742,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Indian Creek",
+            "latitude": 33.7697781,
+            "longitude": -84.2297272,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Kensington",
+            "latitude": 33.7725977,
+            "longitude": -84.2518989,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Kensington",
+            "latitude": 33.7727143,
+            "longitude": -84.2518719,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Decatur",
+            "latitude": 33.7746197,
+            "longitude": -84.2960588,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Avondale",
+            "latitude": 33.7750511,
+            "longitude": -84.2821617,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Avondale",
+            "latitude": 33.7752628,
+            "longitude": -84.282294,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.8600146,
+            "longitude": -84.3395959,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Brookhaven",
+            "latitude": 33.8602054,
+            "longitude": -84.3391919,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Brookhaven",
+            "latitude": 33.8602461,
+            "longitude": -84.3393145,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Chamblee",
+            "latitude": 33.8874215,
+            "longitude": -84.3063373,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Chamblee",
+            "latitude": 33.8875085,
+            "longitude": -84.3064032,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Doraville",
+            "latitude": 33.9029958,
+            "longitude": -84.2801479,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Doraville",
+            "latitude": 33.9030773,
+            "longitude": -84.2802367,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Dunwoody",
+            "latitude": 33.921246,
+            "longitude": -84.344418,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Dunwoody",
+            "latitude": 33.9212288,
+            "longitude": -84.3442796,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.9213411,
+            "longitude": -84.3442068,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Holmes Student Center (East Side)",
+            "latitude": 41.9355141,
+            "longitude": -88.7658207,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Psychology Building Bus Stop",
+            "latitude": 41.930971,
+            "longitude": -88.765947,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Pizza Villa Bus Stop",
+            "latitude": 41.93103,
+            "longitude": -88.769643,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Lincoln Hwy. at Burger King",
+            "latitude": 41.9312051,
+            "longitude": -88.7695379,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "CVS Bus Stop",
+            "latitude": 41.9309174,
+            "longitude": -88.7721492,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Taylor St. at Ashbury Court Apt.",
+            "latitude": 41.9218689,
+            "longitude": -88.7699442,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Russell Rd. @ Lucinda",
+            "latitude": 41.9364619,
+            "longitude": -88.7682076,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Psychology Building Bus Stop",
+            "latitude": 41.9318174,
+            "longitude": -88.7657988,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Schnuck's",
+            "latitude": 41.9198086,
+            "longitude": -88.7750006,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Talylor St at Glidden Ave",
+            "latitude": 41.92186,
+            "longitude": -88.7630108,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Taylor St at Ashbury Court Apt",
+            "latitude": 41.9219909,
+            "longitude": -88.7687681,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Taylor St at 1st St",
+            "latitude": 41.9218505,
+            "longitude": -88.7593798,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "1st St at Roosevelt",
+            "latitude": 41.9257154,
+            "longitude": -88.7568993,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "1st St at Walgreens",
+            "latitude": 41.9306852,
+            "longitude": -88.7545453,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Annie Glidden Rd. @ Suburban South",
+            "latitude": 41.9473307,
+            "longitude": -88.7730812,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 41.9424111,
+            "longitude": -88.777888,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Wal-Mart (Grocery entrance)",
+            "latitude": 41.9499149,
+            "longitude": -88.7219802,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "20",
+            "latitude": 41.9504731,
+            "longitude": -88.7239844,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Normal Rd. at Parking Garage",
+            "latitude": 41.9320805,
+            "longitude": -88.7657465,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Pier One Bus Stop",
+            "latitude": 41.9535233,
+            "longitude": -88.725439,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Target Shopping Center Bus Stop",
+            "latitude": 41.9554916,
+            "longitude": -88.7246409,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Harbor Freight Bus Stop",
+            "latitude": 41.9558968,
+            "longitude": -88.7239767,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Health Services at YMCA",
+            "latitude": 41.964115,
+            "longitude": -88.7233559,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Lincoln Hwy. at Pearl St",
+            "latitude": 41.9308765,
+            "longitude": -88.7579665,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Locust St at 6th St",
+            "latitude": 41.9297159,
+            "longitude": -88.746944,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "7th St at Shipman Pl",
+            "latitude": 41.9337953,
+            "longitude": -88.7436747,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "7th St at Pine St",
+            "latitude": 41.9310486,
+            "longitude": -88.7443373,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Speech and Hearing Clinic (North Entrance)",
+            "latitude": 41.9639539,
+            "longitude": -88.7180556,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Sycamore Rd. at Jewel",
+            "latitude": 41.9432285,
+            "longitude": -88.7373085,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Sycamore Rd. at White Castle",
+            "latitude": 41.9453406,
+            "longitude": -88.7347407,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Lincoln Hall",
+            "latitude": 41.9363715,
+            "longitude": -88.7744554,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "New Hall West",
+            "latitude": 41.937838,
+            "longitude": -88.7759401,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Grant North",
+            "latitude": 41.938567,
+            "longitude": -88.7771957,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Stevenson North",
+            "latitude": 41.9378295,
+            "longitude": -88.780053,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Steveson South",
+            "latitude": 41.936642,
+            "longitude": -88.780997,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Convocation Center (Entrance #3)",
+            "latitude": 41.9364071,
+            "longitude": -88.7844518,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Lincoln Highway at High Meadows",
+            "latitude": 41.9307859,
+            "longitude": -88.7809083,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Normal Rd. at Lucinda Ave.",
+            "latitude": 41.9363753,
+            "longitude": -88.7661333,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Russell Rd. at Hillel Jewish Center",
+            "latitude": 41.9425394,
+            "longitude": -88.7682058,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 41.9307389,
+            "longitude": -88.7784869,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 41.9309356,
+            "longitude": -88.7815944,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Annie Glidden Rd. at Crane Dr.",
+            "latitude": 41.9399366,
+            "longitude": -88.7731125,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Varsity Blvd. at University Heights Apt.",
+            "latitude": 41.9435428,
+            "longitude": -88.7763897,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Hillcrest Dr. at Pappas Dr.",
+            "latitude": 41.9452206,
+            "longitude": -88.774484,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Hillcrest Dr. at Spiros Ct.",
+            "latitude": 41.9453224,
+            "longitude": -88.776609,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Regent Dr. and Hillcrest Dr",
+            "latitude": 41.9452233,
+            "longitude": -88.7781545,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Annie Glidden Rd. at Suburban Apt. (North)",
+            "latitude": 41.948959,
+            "longitude": -88.7730941,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Twombly Rd. at Annie Glidden Rd.",
+            "latitude": 41.9507958,
+            "longitude": -88.7734682,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Twombly Rd. at Suburban Estates (2nd Shelter)",
+            "latitude": 41.9508313,
+            "longitude": -88.7803085,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Twombly Rd. at Eden's Garden/Suburban Apartments #2",
+            "latitude": 41.9508942,
+            "longitude": -88.7805776,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Annie Glidden Rd. at Hillcrest Dr.",
+            "latitude": 41.9455492,
+            "longitude": -88.7732471,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 41.9468398,
+            "longitude": -88.7699026,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Annie Glidden Rd. at Suburban Apt. (South)",
+            "latitude": 41.94738,
+            "longitude": -88.7732708,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Normal @ 721 Normal",
+            "latitude": 41.9428599,
+            "longitude": -88.7657666,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Annie Glidden Road at Hillcrest",
+            "latitude": 41.9454036,
+            "longitude": -88.7730879,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Normal @ Nursing School",
+            "latitude": 41.9483612,
+            "longitude": -88.7657532,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Lincoln Hwy. at Annie Glidden",
+            "latitude": 41.9310137,
+            "longitude": -88.7719736,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Psychology Building Bus Stop",
+            "latitude": 41.9311012,
+            "longitude": -88.7659957,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Dunwoody MARTA",
+            "latitude": 33.9207829,
+            "longitude": -84.3444894,
+            "type": "subway_entrance"
+        },
+        {
+            "name": "21",
+            "latitude": 41.954514,
+            "longitude": -88.7214826,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Waterloo",
+            "latitude": 41.431591,
+            "longitude": -85.0256315,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Grant Hall at Crosswalk",
+            "latitude": 41.9363684,
+            "longitude": -88.7774526,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "22",
+            "latitude": 41.96061,
+            "longitude": -88.7125182,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "6",
+            "latitude": 41.986662,
+            "longitude": -88.6743939,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "7",
+            "latitude": 41.9882482,
+            "longitude": -88.6800964,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "5",
+            "latitude": 41.9884392,
+            "longitude": -88.6839708,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "9",
+            "latitude": 41.9885968,
+            "longitude": -88.6852506,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "2",
+            "latitude": 41.9892583,
+            "longitude": -88.6882468,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "3",
+            "latitude": 41.9915863,
+            "longitude": -88.6853143,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "31",
+            "latitude": 42.0142829,
+            "longitude": -88.6781739,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 41.9342239,
+            "longitude": -88.7628331,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Route 2L",
+            "latitude": 41.9308591,
+            "longitude": -88.7756432,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 41.9419504,
+            "longitude": -88.7682156,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "7th St. at Lewis St",
+            "latitude": 41.935399,
+            "longitude": -88.7436844,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Sycamore at Hopkins Park",
+            "latitude": 41.944498,
+            "longitude": -88.7360083,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 41.9473337,
+            "longitude": -88.7315204,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Hopkins Park Bus Stop",
+            "latitude": 41.9511878,
+            "longitude": -88.7270274,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 41.9561369,
+            "longitude": -88.7217646,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 41.9585171,
+            "longitude": -88.7210936,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 41.9631913,
+            "longitude": -88.7180305,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 41.9363238,
+            "longitude": -88.7654801,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "1st Street at Walgreens",
+            "latitude": 41.9300819,
+            "longitude": -88.7545366,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Riverside Apt",
+            "latitude": 41.9218651,
+            "longitude": -88.7697786,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 41.9309823,
+            "longitude": -88.7808771,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 41.936514,
+            "longitude": -88.7651002,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 41.9457135,
+            "longitude": -88.7698851,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 41.9313651,
+            "longitude": -88.7658832,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 41.931225,
+            "longitude": -88.7652508,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Kinder Care N. Side",
+            "latitude": 41.94107,
+            "longitude": -88.7478574,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "1st Congressional Church",
+            "latitude": 41.9367184,
+            "longitude": -88.7509081,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Century 21 W. Side",
+            "latitude": 41.9406801,
+            "longitude": -88.749702,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Locust St at 3rd St",
+            "latitude": 41.9309199,
+            "longitude": -88.7509845,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "7th Street at Garden",
+            "latitude": 41.9244062,
+            "longitude": -88.7480456,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "7th Street at Taylor",
+            "latitude": 41.921778,
+            "longitude": -88.749086,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Golden Year's Plaza",
+            "latitude": 41.921834,
+            "longitude": -88.7532648,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Children's Learning Center",
+            "latitude": 41.919612,
+            "longitude": -88.7534694,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "4th Street at Sunset",
+            "latitude": 41.9183298,
+            "longitude": -88.7534735,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "2nd and Sunset",
+            "latitude": 41.9182213,
+            "longitude": -88.7570665,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "1st and Sunset",
+            "latitude": 41.9188054,
+            "longitude": -88.7606398,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Barb City Manor",
+            "latitude": 41.9236751,
+            "longitude": -88.758323,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Glidden and Taylor",
+            "latitude": 41.9218474,
+            "longitude": -88.7636187,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Dollar Video",
+            "latitude": 41.9308943,
+            "longitude": -88.7748087,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 41.930712,
+            "longitude": -88.7798106,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Glidden and Stadium",
+            "latitude": 41.9345524,
+            "longitude": -88.7733741,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Glidden and Lucinda",
+            "latitude": 41.9366608,
+            "longitude": -88.7731436,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "University Village",
+            "latitude": 41.9423405,
+            "longitude": -88.7731126,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Glidden and Varsity",
+            "latitude": 41.9436732,
+            "longitude": -88.7731157,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Glidden and Arcadia",
+            "latitude": 41.9463165,
+            "longitude": -88.7730829,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Heritage Woods",
+            "latitude": 41.954512,
+            "longitude": -88.773098,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "County Health Dept.",
+            "latitude": 41.9556039,
+            "longitude": -88.7715566,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Dresser Court",
+            "latitude": 41.955598,
+            "longitude": -88.7699022,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Amber Manor",
+            "latitude": 41.9498427,
+            "longitude": -88.7657399,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Ridge and 1st St.",
+            "latitude": 41.9466388,
+            "longitude": -88.7490519,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "China House Stop",
+            "latitude": 41.9465183,
+            "longitude": -88.7329859,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Buffalo Wild Wings Stop",
+            "latitude": 41.9542923,
+            "longitude": -88.721663,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Ollie's Stop",
+            "latitude": 41.958122,
+            "longitude": -88.719634,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "DeKalb Clinic",
+            "latitude": 41.9613683,
+            "longitude": -88.7138335,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Davita Stop",
+            "latitude": 41.9619196,
+            "longitude": -88.7162324,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "52",
+            "latitude": 41.9660477,
+            "longitude": -88.7200306,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Hopkins Park Center Stop",
+            "latitude": 41.9450955,
+            "longitude": -88.7350521,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Stadium Drive",
+            "latitude": 41.9321862,
+            "longitude": -88.781606,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Kohls Stop",
+            "latitude": 41.9484571,
+            "longitude": -88.7250125,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Sycamore Rd. at East Dresser Rd. (NW Corner)",
+            "latitude": 41.9481704,
+            "longitude": -88.7306652,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Chamblee",
+            "latitude": 33.8874715,
+            "longitude": -84.3063596,
+            "type": "public_transport_station"
+        },
+        {
+            "name": "Doraville",
+            "latitude": 33.9030174,
+            "longitude": -84.2802057,
+            "type": "public_transport_station"
+        },
+        {
+            "name": "Brookhaven",
+            "latitude": 33.8601971,
+            "longitude": -84.3392787,
+            "type": "public_transport_station"
+        },
+        {
+            "name": "Avondale",
+            "latitude": 33.7751541,
+            "longitude": -84.2822446,
+            "type": "public_transport_station"
+        },
+        {
+            "name": "Edgewood/Candler Park",
+            "latitude": 33.7619053,
+            "longitude": -84.3398665,
+            "type": "public_transport_station"
+        },
+        {
+            "name": "East Lake",
+            "latitude": 33.7651943,
+            "longitude": -84.3128808,
+            "type": "public_transport_station"
+        },
+        {
+            "name": "Kensington",
+            "latitude": 33.7726386,
+            "longitude": -84.2518908,
+            "type": "public_transport_station"
+        },
+        {
+            "name": "Indian Creek",
+            "latitude": 33.769837,
+            "longitude": -84.2297224,
+            "type": "public_transport_station"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.8492957,
+            "longitude": -84.3218726,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Clifton Rd & Houston Mill Rd",
+            "latitude": 33.798667,
+            "longitude": -84.324036,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Clifton Rd & Woodruff Cir",
+            "latitude": 33.793413,
+            "longitude": -84.321139,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Clifton - Fishburne",
+            "latitude": 33.7905737,
+            "longitude": -84.3210748,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Briarcliff Rd NE & 1256",
+            "latitude": 33.7879882,
+            "longitude": -84.339699,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Briarcliff Rd NE & Saint Louis Pl NE",
+            "latitude": 33.7771848,
+            "longitude": -84.3474009,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Moreland Ave & McLendon Ave",
+            "latitude": 33.7648567,
+            "longitude": -84.349072,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7721892,
+            "longitude": -84.3488924,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Briarcliff Rd & Saint Charles Pl NE",
+            "latitude": 33.7755897,
+            "longitude": -84.348444,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.8273988,
+            "longitude": -84.3298671,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Vista Grove Bus Stop",
+            "latitude": 33.8251435,
+            "longitude": -84.290572,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.8248772,
+            "longitude": -84.2902068,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "7th St at Sycamore Rd",
+            "latitude": 41.9388051,
+            "longitude": -88.7436264,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "7th St at Lewis St",
+            "latitude": 41.9354106,
+            "longitude": -88.7438679,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Stevenson Hall",
+            "latitude": 41.9364433,
+            "longitude": -88.7794923,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Convocation Center",
+            "latitude": 41.9363943,
+            "longitude": -88.7875709,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Dunwoody",
+            "latitude": 33.9210622,
+            "longitude": -84.34433,
+            "type": "public_transport_station"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7148232,
+            "longitude": -84.3205482,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "7th Street at Grove Street",
+            "latitude": 41.9271956,
+            "longitude": -88.7465236,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.8490646,
+            "longitude": -84.3216984,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.8882143,
+            "longitude": -84.3057951,
+            "type": "subway_entrance"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7724101,
+            "longitude": -84.251938,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7723609,
+            "longitude": -84.2519544,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Clifton Rd NE & 1599",
+            "latitude": 33.7993353,
+            "longitude": -84.3246104,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Waterloo",
+            "latitude": 41.4317738,
+            "longitude": -85.0242867,
+            "type": "public_transport_station"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7188686,
+            "longitude": -84.3494195,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7223825,
+            "longitude": -84.3493263,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.718865,
+            "longitude": -84.3494712,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Convocation Center (Pkg Lt C3)",
+            "latitude": 41.9364013,
+            "longitude": -88.7854064,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.8106733,
+            "longitude": -84.1451991,
+            "type": "public_transport_station"
+        },
+        {
+            "name": "Montral Rd @ 1468",
+            "latitude": 33.8262627,
+            "longitude": -84.2503281,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Decatur",
+            "latitude": 33.7746104,
+            "longitude": -84.2960337,
+            "type": "public_transport_station"
+        },
+        {
+            "name": "Waterloo",
+            "latitude": 41.4315517,
+            "longitude": -85.0256333,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Avondale",
+            "latitude": 33.7751811,
+            "longitude": -84.2822288,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Avondale",
+            "latitude": 33.7751454,
+            "longitude": -84.2822097,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.8876993,
+            "longitude": -84.3055877,
+            "type": "subway_entrance"
+        },
+        {
+            "name": "Ridge Rd. at Amber Manor",
+            "latitude": 41.948522,
+            "longitude": -88.767137,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.9209948,
+            "longitude": -84.3440686,
+            "type": "subway_entrance"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.921972,
+            "longitude": -84.3445694,
+            "type": "subway_entrance"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.9217988,
+            "longitude": -84.3444254,
+            "type": "subway_entrance"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.9219976,
+            "longitude": -84.3442473,
+            "type": "subway_entrance"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.9176116,
+            "longitude": -84.3038434,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.9176734,
+            "longitude": -84.3037344,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.916535,
+            "longitude": -84.3028911,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.9115674,
+            "longitude": -84.2983888,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.9115063,
+            "longitude": -84.2984407,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7619447,
+            "longitude": -84.3398703,
+            "type": "stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7618605,
+            "longitude": -84.3398536,
+            "type": "stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7623279,
+            "longitude": -84.3406557,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7883387,
+            "longitude": -84.3251203,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "BRIARWOOD RD@BRIARWOOD IND CT",
+            "latitude": 33.8408022,
+            "longitude": -84.3213748,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.768704,
+            "longitude": -84.2349578,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7686283,
+            "longitude": -84.2347137,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "NORTHEAST EXPY@BRIARWOOD RD NE",
+            "latitude": 33.8397757,
+            "longitude": -84.3202182,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "BRIARWOOD RD NE@BUFORD HWY NE",
+            "latitude": 33.8442959,
+            "longitude": -84.3264506,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "MARTA",
+            "latitude": 33.7069452,
+            "longitude": -84.1687275,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Locust Street at 7th Street",
+            "latitude": 41.9296383,
+            "longitude": -88.7460918,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Taylor Street at 2nd Street (628)",
+            "latitude": 41.9218401,
+            "longitude": -88.7569584,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Main Street @ West Mountain Street",
+            "latitude": 33.80821,
+            "longitude": -84.1706743,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Main Street @ East Mountain Street",
+            "latitude": 33.8085026,
+            "longitude": -84.1706195,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.9028951,
+            "longitude": -84.2801256,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.9028415,
+            "longitude": -84.2800693,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.8880159,
+            "longitude": -84.3045963,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.8880852,
+            "longitude": -84.3046487,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.9030296,
+            "longitude": -84.2798033,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.9030811,
+            "longitude": -84.279864,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.888408,
+            "longitude": -84.3054206,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.8884512,
+            "longitude": -84.3054635,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7745792,
+            "longitude": -84.2970103,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7696599,
+            "longitude": -84.2292388,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7695809,
+            "longitude": -84.2292318,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.7646469,
+            "longitude": -84.3127882,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.819976,
+            "longitude": -84.3038838,
+            "type": "public_transport_stop"
+        },
+        {
+            "name": "Unnamed Stop",
+            "latitude": 33.774682,
+            "longitude": -84.2953433,
+            "type": "subway_entrance"
+        }
+    ]
+}
